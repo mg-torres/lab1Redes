@@ -1,0 +1,24 @@
+{
+  "name": "lab1Redes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lab1Redes": "www.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mg-torres/lab1Redes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mg-torres/lab1Redes/issues"
+  },
+  "homepage": "https://github.com/mg-torres/lab1Redes#readme"
+}
